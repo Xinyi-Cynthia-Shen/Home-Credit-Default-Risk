@@ -31,7 +31,7 @@ The objective is to develop a predictive model that classifies clients into **de
 
 
 ### 2. **Individual Component**  
-**File:** `Project_Individual_Component_Xinyi_Cynthia_Shen.pdf`  
+**File:** `Project_Individual_Component.pdf`  
 **Author:** Xinyi (Cynthia) Shen  
 
 **Note:** This report was originally based on **Alex's code**, but Cynthia's version (`Project_Code_Cynthia.ipynb`) is cleaner, more efficient, and eliminates excessive warnings. While some numerical outputs differ slightly, Cynthia's code produces more stable results.
