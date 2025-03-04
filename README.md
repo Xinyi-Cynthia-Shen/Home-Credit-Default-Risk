@@ -1,8 +1,8 @@
-# 🏦 MMF2030 Machine Learning for Finance: Home Credit Default Risk Project
+# 🏦 Home Credit Default Risk Project - Prioe Kaggle Competition
 
 ## 📚 Overview
 
-This repository contains the full project for the **Home Credit Default Risk** case study, completed for the **MMF2030 Machine Learning for Finance** course at the University of Toronto. The goal of this project is to predict the likelihood of a client defaulting on a loan using advanced machine learning techniques.
+This repository contains the full project for the **Home Credit Default Risk** case study, completed for the **Machine Learning for Finance** course at the University of Toronto. The goal of this project is to predict the likelihood of a client defaulting on a loan using advanced machine learning techniques.
 
 The project explores various stages of the data science pipeline—from data preprocessing and feature engineering to model building and business analysis—with a strong focus on practical applications in credit risk management.
 
@@ -20,7 +20,7 @@ The objective is to develop a predictive model that classifies clients into **de
 ## 🔍 Project Components
 
 ### 1. **Group Component**  
-**File:** `MMF2030_Project_Group_Component.pdf`  
+**File:** `Project_Group_Component.pdf`  
 **Authors:** Shuqi (Serena) Chang, Ruoxu (Ryan) Jiang, Xinyi (Cynthia) Shen, Surui (Alex) Zhang  
 
 **Highlights:**  
@@ -31,10 +31,10 @@ The objective is to develop a predictive model that classifies clients into **de
 
 
 ### 2. **Individual Component**  
-**File:** `MMF2030_Project_Individual_Component_Xinyi_Cynthia_Shen.pdf`  
+**File:** `Project_Individual_Component_Xinyi_Cynthia_Shen.pdf`  
 **Author:** Xinyi (Cynthia) Shen  
 
-**Note:** This report was originally based on **Alex's code**, but Cynthia's version (`MMF2030_Project_Code_Cynthia.ipynb`) is cleaner, more efficient, and eliminates excessive warnings. While some numerical outputs differ slightly, Cynthia's code produces more stable results.
+**Note:** This report was originally based on **Alex's code**, but Cynthia's version (`Project_Code_Cynthia.ipynb`) is cleaner, more efficient, and eliminates excessive warnings. While some numerical outputs differ slightly, Cynthia's code produces more stable results.
 
 **Highlights:**  
 - **Business Insights**: Profit optimization through threshold adjustment.  
@@ -46,13 +46,13 @@ The objective is to develop a predictive model that classifies clients into **de
   - **Recall (Default):** 39%  
 
 ### 3. **Code Implementations**  
-**Recommended:** `MMF2030_Project_Code_Cynthia.ipynb`  
+**Recommended:** `Project_Code_Cynthia.ipynb`  
 - **Clean Code:** Organized and well-documented Python code with minimal warnings.  
 - **Optimized Workflow:** Streamlined data preprocessing, feature engineering, and model evaluation.  
 - **Reproducibility:** Clear structure for replicating results and running model evaluations.
 - **Output:** Since we wrote the report based on the other version of code run by Alex, the outputnumbers are slightly different from the individual-written report.
 
-**Reference:** `MMF2030_Project_Code_Alex.ipynb`  
+**Reference:** `Project_Code_Alex.ipynb`  
 - Used as the foundation for the individual report but contains more verbose outputs and warnings.
 
 **Key Techniques:**  
@@ -88,11 +88,6 @@ The objective is to develop a predictive model that classifies clients into **de
 2. **Risk-Based Pricing:** Adjust loan interest rates based on risk classifications.  
 3. **Fraud Detection:** Identify suspicious applications through anomaly detection.  
 4. **Portfolio Monitoring:** Dynamic adjustment of lending strategies in response to economic changes.
-
-## 🎓 Acknowledgments
-
-- **University of Toronto – Master of Mathematical Finance Program**  
-- **MMF2030 Machine Learning for Finance Course**
 
 ---
 
