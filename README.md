@@ -1,8 +1,8 @@
-# 🏦 Home Credit Default Risk Project - Prioe Kaggle Competition
+# 🏦 Home Credit Default Risk Project - Prior Kaggle Competition
 
 ## 📚 Overview
 
-This repository contains the full project for the **Home Credit Default Risk** case study, completed for the **Machine Learning for Finance** course at the University of Toronto. The goal of this project is to predict the likelihood of a client defaulting on a loan using advanced machine learning techniques.
+This repository contains the full project for the **Home Credit Default Risk** case study. The goal of this project is to predict the likelihood of a client defaulting on a loan using advanced machine learning techniques.
 
 The project explores various stages of the data science pipeline—from data preprocessing and feature engineering to model building and business analysis—with a strong focus on practical applications in credit risk management.
 
